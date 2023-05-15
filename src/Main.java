@@ -179,7 +179,7 @@ public class Main {
     }
 
     public static void testDoWhileLoopIterateArray() {
-        int[] arr = {2, 11, 45, 9};
+        int[] arr = {7, 15, 43, 8};
         //i starts with 0 as array index starts with 0
         int i = 0;
         do {
